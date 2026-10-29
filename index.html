@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Jornada Kanto</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Outfit:wght@400;600;800&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div id="app">
+
+    <section id="title" class="screen on">
+      <div class="title-dots" id="titleDotsContainer"></div>
+      <div class="logo" style="position:relative;z-index:2">
+        <div class="title-emblem">
+          <div class="em-hex"></div>
+          <span class="em-text">PK</span>
+        </div>
+        <div class="title-logo-text">
+          <span class="title-line1">Jornada</span>
+          <span class="title-line2">KANTO</span>
+          <span class="title-line3">Pokémon RPG</span>
+        </div>
+        <p class="small" id="titleSub" style="margin:0;position:relative;z-index:2;color:#6a7080;font-size:10px"></p>
+        <p class="gen2note" id="gen2Note" style="position:relative;z-index:2"></p>
+      </div>
+      <div class="menu-stack glass">
+        <button class="btn primary" id="btNew" onclick="screenCreate()"></button>
+        <button class="btn" id="btCont" onclick="openSaves('load')"></button>
+        <button class="btn" id="btImport" onclick="importSave()"></button>
+        <button class="btn" id="btBadges" onclick="openBadgeGallery()"></button>
+        <button class="btn" id="btCfg" onclick="openSettings('title')"></button>
+        <button class="btn" id="btCredits" onclick="openCredits()"></button>
+      </div>
+      <p class="small" id="titleClock" style="position:relative;z-index:2;margin:0;color:#3a4060"></p>
+    </section>
+
+    <section id="create" class="screen">
+      <div class="topbar"><span class="grow" id="crTop"></span></div>
+      <div class="body" id="crBody"></div>
+    </section>
+
+    <section id="starter" class="screen">
+      <div class="topbar"><span class="grow" id="stTop"></span></div>
+      <div class="body" id="stBody"></div>
+    </section>
+
+    <section id="rules" class="screen">
+      <div class="topbar"><span class="grow" id="ruTop"></span></div>
+      <div class="body" id="ruBody"></div>
+    </section>
+
+    <section id="map" class="screen">
+      <div class="topbar">
+        <span class="grow" id="tbName"></span>
+        <span class="badgebar" id="tbBadges"></span>
+        <span id="tbMoney"></span>
+      </div>
+      <div class="body" id="mapBody"></div>
+      <div class="ovl" id="mapOvl"></div>
+    </section>
+
+    <section id="battle" class="screen">
+      <div class="field" id="field">
+        <div class="bgL" id="bgL"></div>
+        <div class="horizon"></div>
+        <div class="ground" id="bgGround"></div>
+        <div class="groundShade"></div>
+        <div class="pad foe" id="padFoe"></div>
+        <div class="pad me" id="padMe"></div>
+        <div class="side foe" id="foeWrap"><img id="foeImg" alt=""></div>
+        <div class="side me" id="meWrap"><img id="meImg" alt=""></div>
+        <img class="trainerSprite" id="trainerFoe" alt="">
+        <img class="trainerSprite" id="trainerMe" alt="">
+        <div class="plate foe" id="plateFoe"></div>
+        <div class="plate me" id="plateMe"></div>
+        <div id="dayNight"></div>
+        <div id="fxLayer"></div>
+        <img id="ballFx" alt="">
+        <div id="battleFade"></div>
+      </div>
+      <div id="logbox"></div>
+      <div class="menu" id="menu"></div>
+      <div class="ovl" id="ovl"></div>
+      <div class="toast" id="toast"></div>
+    </section>
+
+    <div id="evoScreen">
+      <div class="evo-stage">
+        <div class="evo-rays" id="evoRays"></div>
+        <img id="evoSprite" alt="">
+      </div>
+      <p id="evoText"></p>
+      <button class="btn gold" id="evoContinueBtn" style="display:none;margin-top:10px"></button>
+    </div>
+
+    <input type="file" id="fileIn" accept="application/json,.json" style="display:none">
+  </div>
+  <script src="battle_engine.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
+

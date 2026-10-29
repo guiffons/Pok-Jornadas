@@ -1,0 +1,718 @@
+{
+  "1": [
+    "toxic",
+    "giga-drain"
+  ],
+  "2": [
+    "toxic",
+    "giga-drain"
+  ],
+  "3": [
+    "earthquake",
+    "toxic",
+    "giga-drain"
+  ],
+  "4": [
+    "toxic",
+    "fire-blast"
+  ],
+  "5": [
+    "toxic",
+    "fire-blast"
+  ],
+  "6": [
+    "earthquake",
+    "toxic",
+    "fire-blast"
+  ],
+  "7": [
+    "toxic",
+    "water-pulse"
+  ],
+  "8": [
+    "toxic",
+    "water-pulse"
+  ],
+  "9": [
+    "earthquake",
+    "toxic",
+    "water-pulse"
+  ],
+  "10": [],
+  "11": [],
+  "12": [
+    "toxic",
+    "giga-drain"
+  ],
+  "13": [],
+  "14": [],
+  "15": [
+    "toxic",
+    "giga-drain"
+  ],
+  "16": [
+    "toxic"
+  ],
+  "17": [
+    "toxic"
+  ],
+  "18": [
+    "toxic"
+  ],
+  "19": [
+    "toxic",
+    "shock-wave"
+  ],
+  "20": [
+    "toxic",
+    "shock-wave"
+  ],
+  "21": [
+    "toxic"
+  ],
+  "22": [
+    "toxic"
+  ],
+  "23": [
+    "earthquake",
+    "toxic",
+    "giga-drain"
+  ],
+  "24": [
+    "earthquake",
+    "toxic",
+    "giga-drain"
+  ],
+  "25": [
+    "toxic",
+    "shock-wave"
+  ],
+  "26": [
+    "toxic",
+    "shock-wave"
+  ],
+  "27": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "28": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "29": [
+    "toxic",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "30": [
+    "toxic",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "31": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "32": [
+    "toxic",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "33": [
+    "toxic",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "34": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "35": [
+    "toxic",
+    "fire-blast",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "36": [
+    "toxic",
+    "fire-blast",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "37": [
+    "toxic",
+    "fire-blast"
+  ],
+  "38": [
+    "toxic",
+    "fire-blast"
+  ],
+  "39": [
+    "toxic",
+    "fire-blast",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "40": [
+    "toxic",
+    "fire-blast",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "41": [
+    "toxic",
+    "giga-drain"
+  ],
+  "42": [
+    "toxic",
+    "giga-drain"
+  ],
+  "43": [
+    "toxic",
+    "giga-drain"
+  ],
+  "44": [
+    "toxic",
+    "giga-drain"
+  ],
+  "45": [
+    "toxic",
+    "giga-drain"
+  ],
+  "46": [
+    "toxic",
+    "giga-drain"
+  ],
+  "47": [
+    "toxic",
+    "giga-drain"
+  ],
+  "48": [
+    "toxic",
+    "giga-drain"
+  ],
+  "49": [
+    "toxic",
+    "giga-drain"
+  ],
+  "50": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "51": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "52": [
+    "toxic",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "53": [
+    "toxic",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "54": [
+    "toxic",
+    "calm-mind",
+    "water-pulse"
+  ],
+  "55": [
+    "toxic",
+    "calm-mind",
+    "water-pulse"
+  ],
+  "56": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "57": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "58": [
+    "toxic",
+    "fire-blast"
+  ],
+  "59": [
+    "toxic",
+    "fire-blast"
+  ],
+  "60": [
+    "toxic",
+    "water-pulse"
+  ],
+  "61": [
+    "earthquake",
+    "toxic",
+    "water-pulse"
+  ],
+  "62": [
+    "earthquake",
+    "toxic",
+    "rock-tomb",
+    "water-pulse"
+  ],
+  "63": [
+    "toxic",
+    "calm-mind",
+    "shock-wave"
+  ],
+  "64": [
+    "toxic",
+    "calm-mind",
+    "shock-wave"
+  ],
+  "65": [
+    "toxic",
+    "calm-mind",
+    "shock-wave"
+  ],
+  "66": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "67": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "68": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "69": [
+    "toxic",
+    "giga-drain"
+  ],
+  "70": [
+    "toxic",
+    "giga-drain"
+  ],
+  "71": [
+    "toxic",
+    "giga-drain"
+  ],
+  "72": [
+    "toxic",
+    "giga-drain",
+    "water-pulse"
+  ],
+  "73": [
+    "toxic",
+    "giga-drain",
+    "water-pulse"
+  ],
+  "74": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "75": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "76": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "77": [
+    "toxic",
+    "fire-blast"
+  ],
+  "78": [
+    "toxic",
+    "fire-blast"
+  ],
+  "79": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "calm-mind",
+    "water-pulse"
+  ],
+  "80": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "calm-mind",
+    "water-pulse"
+  ],
+  "81": [
+    "toxic",
+    "shock-wave"
+  ],
+  "82": [
+    "toxic",
+    "shock-wave"
+  ],
+  "83": [
+    "toxic"
+  ],
+  "84": [
+    "toxic"
+  ],
+  "85": [
+    "toxic"
+  ],
+  "86": [
+    "toxic",
+    "water-pulse"
+  ],
+  "87": [
+    "toxic",
+    "water-pulse"
+  ],
+  "88": [
+    "toxic",
+    "fire-blast",
+    "giga-drain",
+    "rock-tomb",
+    "shock-wave"
+  ],
+  "89": [
+    "toxic",
+    "fire-blast",
+    "giga-drain",
+    "rock-tomb",
+    "shock-wave"
+  ],
+  "90": [
+    "toxic",
+    "water-pulse"
+  ],
+  "91": [
+    "toxic",
+    "water-pulse"
+  ],
+  "92": [
+    "toxic",
+    "giga-drain"
+  ],
+  "93": [
+    "toxic",
+    "giga-drain"
+  ],
+  "94": [
+    "toxic",
+    "giga-drain"
+  ],
+  "95": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "96": [
+    "toxic",
+    "calm-mind"
+  ],
+  "97": [
+    "toxic",
+    "calm-mind"
+  ],
+  "98": [
+    "toxic",
+    "rock-tomb",
+    "water-pulse"
+  ],
+  "99": [
+    "toxic",
+    "rock-tomb",
+    "water-pulse"
+  ],
+  "100": [
+    "toxic",
+    "shock-wave"
+  ],
+  "101": [
+    "toxic",
+    "shock-wave"
+  ],
+  "102": [
+    "toxic",
+    "giga-drain"
+  ],
+  "103": [
+    "toxic",
+    "giga-drain"
+  ],
+  "104": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "105": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "106": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "107": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "108": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "109": [
+    "toxic",
+    "fire-blast",
+    "shock-wave"
+  ],
+  "110": [
+    "toxic",
+    "fire-blast",
+    "shock-wave"
+  ],
+  "111": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave"
+  ],
+  "112": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave"
+  ],
+  "113": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "114": [
+    "toxic",
+    "giga-drain"
+  ],
+  "115": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "116": [
+    "toxic",
+    "water-pulse"
+  ],
+  "117": [
+    "toxic",
+    "water-pulse"
+  ],
+  "118": [
+    "toxic",
+    "water-pulse"
+  ],
+  "119": [
+    "toxic",
+    "water-pulse"
+  ],
+  "120": [
+    "toxic",
+    "water-pulse"
+  ],
+  "121": [
+    "toxic",
+    "water-pulse"
+  ],
+  "122": [
+    "toxic",
+    "calm-mind",
+    "shock-wave"
+  ],
+  "123": [
+    "toxic"
+  ],
+  "124": [
+    "toxic",
+    "calm-mind",
+    "water-pulse"
+  ],
+  "125": [
+    "toxic",
+    "shock-wave"
+  ],
+  "126": [
+    "toxic",
+    "fire-blast"
+  ],
+  "127": [
+    "earthquake",
+    "toxic",
+    "rock-tomb"
+  ],
+  "128": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "129": [],
+  "130": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "water-pulse"
+  ],
+  "131": [
+    "toxic",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "132": [],
+  "133": [
+    "toxic"
+  ],
+  "134": [
+    "toxic",
+    "water-pulse"
+  ],
+  "135": [
+    "toxic",
+    "shock-wave"
+  ],
+  "136": [
+    "toxic",
+    "fire-blast"
+  ],
+  "137": [
+    "toxic",
+    "shock-wave"
+  ],
+  "138": [
+    "toxic",
+    "rock-tomb",
+    "water-pulse"
+  ],
+  "139": [
+    "toxic",
+    "rock-tomb",
+    "water-pulse"
+  ],
+  "140": [
+    "toxic",
+    "giga-drain",
+    "rock-tomb",
+    "water-pulse"
+  ],
+  "141": [
+    "toxic",
+    "giga-drain",
+    "rock-tomb",
+    "water-pulse"
+  ],
+  "142": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb"
+  ],
+  "143": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "144": [
+    "toxic",
+    "water-pulse"
+  ],
+  "145": [
+    "toxic",
+    "shock-wave"
+  ],
+  "146": [
+    "toxic",
+    "fire-blast"
+  ],
+  "147": [
+    "toxic",
+    "fire-blast",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "148": [
+    "toxic",
+    "fire-blast",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "149": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "150": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "rock-tomb",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse"
+  ],
+  "151": [
+    "earthquake",
+    "toxic",
+    "fire-blast",
+    "giga-drain",
+    "rock-tomb",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse"
+  ]
+}

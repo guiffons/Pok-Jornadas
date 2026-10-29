@@ -1,0 +1,13 @@
+# Backups & Temp files
+*.bak
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Development scratchpad & tests
+scratch/
+
+# Local environments / IDE
+.vscode/
+.idea/
